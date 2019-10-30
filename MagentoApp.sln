@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagentoApp", "MagentoApp\MagentoApp.csproj", "{8920268B-29FB-4814-9411-62407AB36118}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C4AF50B1-101A-4ED7-9614-5B3E42F46FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8920268B-29FB-4814-9411-62407AB36118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8920268B-29FB-4814-9411-62407AB36118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8920268B-29FB-4814-9411-62407AB36118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8920268B-29FB-4814-9411-62407AB36118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AF50B1-101A-4ED7-9614-5B3E42F46FAD}.Debug|Any CPU.ActiveCfg = Debug
+		{C4AF50B1-101A-4ED7-9614-5B3E42F46FAD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036EB3F1-ACDE-4A7F-BEED-01990A332919}
+	EndGlobalSection
+EndGlobal
