@@ -83,6 +83,7 @@ GO
 SET ANSI_PADDING OFF
 GO
 <br>
+4. Change the connection string detain in connection.config file
 
 
 
